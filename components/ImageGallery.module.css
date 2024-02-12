@@ -1,0 +1,10 @@
+.main img{
+  object-fit: cover;
+  box-shadow: -5px 5px 10px rgba(128, 128, 128, 0.575);
+  cursor: pointer;
+}
+
+.main img:hover{
+ scale: 103%;
+ transition: .3s;
+}

@@ -1,0 +1,72 @@
+.intro{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.header h1{
+  font-weight: 700;
+  color: gray;
+  text-align: center;
+}
+
+.header {
+  font-weight: 400;
+  color: gray;
+  text-align: end;
+}
+
+.header span{
+  border-bottom: 2px solid #808080;
+}
+
+.button{
+  font-size: 1.5rem;
+  width: 150px;
+  height: 60px;
+  color: gray;
+  background: none;
+  border: 2px solid gray;
+  cursor: pointer;
+}
+
+.button:hover{
+  font-size: 1.5rem;
+  width: 150px;
+  height: 60px;
+  color: white;
+  background: gray;
+  border: 2px solid gray;
+  border-top-left-radius: 16px;
+  cursor: pointer;
+  transition: .4s;
+}
+
+.active{
+  color: white;
+  background: gray;
+  border: 2px solid gray;
+  border-top-left-radius: 16px;
+}
+
+.navegation{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin: 30px 0 60px 0;
+}
+
+.icons{
+  display: flex;
+  gap: 5px;
+  color: gray;
+}
+
+.icons a:hover{
+ scale: 110%;
+ transition: .3s;
+}
