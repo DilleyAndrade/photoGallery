@@ -1,4 +1,4 @@
-<h1>Photo Gallery for everyone(Desafio Front-End Júnior)</h1>
+<h1>Photo Gallery for everyone (Desafio Front-End Júnior)</h1>
 <h4>
     Bem-vindo à Galeria de Fotos construída em Next.js! Esta aplicação é uma maneira elegante e eficiente de exibir suas fotos de forma organizada e fácil de navegar. O design clean foi pensado para proporcionar uma experiência de usuário agradável, focada nas imagens, mantendo a interface simples e intuitiva.
     (Desafio Front-End Júnior)
