@@ -29,18 +29,16 @@
 <p>
   2-Css modules: Para estilização, escolhi o Css modules para manter o CSS bem organizado, proporcionando modularidade e facilitando a manutenção
 </p>
-<p></p>
 
 <h4>Instruções para Executar Localmente:</h4>
-<p>Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE.md para obter detalhes.</p>
-
-
-
-<h4>Licença:</h4>
 <p>1-Clone o Repositório:</p>
 <p>2-Instale as Dependências utilizando: npm i</p>
 <p>3-Inicie o Servidor de Desenvolvimento utilizando: npm run dev</p>
 <p>4-Acesse a Aplicação em: http://localhost:3000</p>
+
+<h4>Licença:</h4>
+<p>Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE.md para obter detalhes.</p>
+
 
 <p>
   Agora, você deve ter a galeria de fotos Next.js funcionando em seu ambiente local. Sinta-se à vontade para personalizar e expandir conforme necessário para atender às suas necessidades específicas. Divirta-se exibindo suas fotos de forma elegante!
